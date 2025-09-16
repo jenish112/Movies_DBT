@@ -1,4 +1,4 @@
-# Movies Analytics Data Pipeline with dbt, Snowflake, Amazon S3 & Tableau
+# Netflix Analytics Data Pipeline with dbt, Snowflake, Amazon S3 & Tableau
 
 <p align="center" width="100%">
   <img src='https://github.com/jenish112/Movies_DBT/blob/main/Tableau%20Screenshot.png' width='700'/> 
