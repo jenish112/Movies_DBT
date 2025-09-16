@@ -1,5 +1,9 @@
 # Movies Analytics Data Pipeline with dbt, Snowflake, Amazon S3 & Tableau
 
+<p align="center" width="100%">
+  <img src='https://github.com/jenish112/Movies_DBT/blob/main/Tableau%20Screenshot.png' width='700'/> 
+</p>
+
 This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipeline that emulates Netflix-style analytics. The workflow leverages industry-leading tools: **dbt (Data Build Tool)** for modular SQL transformations, **Snowflake** as the data warehouse, and **AWS S3** for cloud storage and data staging.
 
 ## 🚀 Features
