@@ -1,4 +1,7 @@
-# Movies Analytics Data Pipeline with dbt, Snowflake & Amazon S3
+# Netflix-Tableau-Dashboard
+Tableau Public Link: https://public.tableau.com/app/profile/jenish.vekariya/viz/Netflix_17038440035540/NetflixDashboard
+
+# Movies Analytics Data Pipeline with dbt, Snowflake, Amazon S3 & Tableau
 
 This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipeline that emulates Netflix-style analytics. The workflow leverages industry-leading tools: **dbt (Data Build Tool)** for modular SQL transformations, **Snowflake** as the data warehouse, and **AWS S3** for cloud storage and data staging.
 
@@ -17,6 +20,7 @@ This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipe
 - Snowflake Data Warehouse
 - Amazon S3 Storage
 - SQL
+- Tableau
   
 ## 📁 Project Structure
 netflix-data-analysis-dbt/<br/>
